@@ -1,1 +1,3 @@
 # MedicineChase
+My father is a cardiac,he needs some important medicines which have to be prescribed by doctors to buy from pharmacy.I wanted to ease his life with programming.Everyday he reads newspapers on his laptop,so i prefer to operate this application as startup-app.By using the app,he does not need to worry about his prescription, app stores the required information about his medicines in a text file,so he can easily modify (add,remove medicines or change the stock numbers,rarely he looses medicines).When the time comes up, app send an email which includes the required info about medicines,to doctor.The doctor sends his e-reçete number to his cell phone.\
+The application is written with C++, uses curl for mailing.
